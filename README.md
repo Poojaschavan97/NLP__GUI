@@ -27,7 +27,7 @@ NLPApp GUI is a user-friendly **Natural Language Processing (NLP) desktop applic
 
 ## 📸 **Screenshots**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a504d867-b87a-4333-a39e-191e4b155097" />
+  <img src="https://github.com/user-attachments/assets/cdd13a7a-bece-428e-ac6b-61118f774263" />
   <br>
 
 </p>
